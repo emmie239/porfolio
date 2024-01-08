@@ -1,0 +1,35 @@
+body{
+    background-color:#AFEEEE;
+}
+header{
+    background-color:#66CDAA;
+    border:solid;
+    border-color: #5F9EA0;
+    border-width: 3px;
+    text-align: center;
+}
+div {
+    color: #000080;
+}
+h1 {
+    color:#000080;
+    text-align: center;
+}
+h3{
+    color:#000080;
+    text-align: center;
+}
+h2{
+    color:#000080;
+    text-align: center;
+}
+a{
+    color:#000080
+}
+li{
+    text-align: left;
+}
+
+nav{
+    background-color:#66CDAA;
+}
